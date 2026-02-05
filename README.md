@@ -124,7 +124,7 @@ University of Moratuwa
 <br clear="right"/>
 
 ---
-## 🤝 Let's Connect!
+
 
 <p align="center">
   📧 <strong>balarajansuhira@gmail.com</strong>
