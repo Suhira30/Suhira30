@@ -124,23 +124,27 @@ University of Moratuwa
 <br clear="right"/>
 
 ---
-
 ## 🤝 Let's Connect!
 
-<div align="center">
-[![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat-square)](https://github.com/Suhira30)
-[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suhirabalarajan)
-[![Medium](https://img.shields.io/badge/-@suhirabalarajan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suhirabalarajan)
-[![HackerRank](https://img.shields.io/badge/-SuhiraB-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Suhira_B)
-[![Email](https://img.shields.io/badge/-balarajansuhira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
+<p align="center">
+  [![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat-square)](https://github.com/Suhira30)
+  [![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suhirabalarajan)
+  [![Medium](https://img.shields.io/badge/-@suhirabalarajan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suhirabalarajan)
+  [![HackerRank](https://img.shields.io/badge/-SuhiraB-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Suhira_B)
+  [![Email](https://img.shields.io/badge/-balarajansuhira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
+</p>
 
-### 📧 balarajansuhira@gmail.com
+<p align="center">
+  📧 <strong>balarajansuhira@gmail.com</strong>
+</p>
 
-**💙 Open to collaborations and opportunities!**
+<p align="center">
+  💙 Open to collaborations and opportunities!
+</p>
 
-<br>
-**© 2025 Suhira Balarajan** • Made with 💙 and ☕
-</div>
+<p align="center">
+  © 2025 Suhira Balarajan • Made with 💙 and ☕
+</p>
 
 ---
 
