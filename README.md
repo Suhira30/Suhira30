@@ -2,7 +2,7 @@
   
 # Hi there, I'm Suhira Balarajan 👋
 
-### 🚀 Backend Developer | Full-Stack Enthusiast | UI/UX Designer
+### 🚀 Backend Developer | Full-Stack Enthusiast | Problem Solver
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat)](https://github.com/Suhira30)
 [![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suhirabalarajan)
@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-```typescript
+```javascript
 const suhira = {
   pronouns: "she/her",
   location: "Colombo/Jaffna, Sri Lanka 🇱🇰",
@@ -29,9 +29,9 @@ const suhira = {
   openTo: {
     collaborations: true,
     opportunities: "Software Engineer Roles",
-    freelance: true,
+    freelance: true
   },
-  funFact: "I turn complex problems into elegant solutions ✨",
+  funFact: "I turn complex problems into elegant solutions ✨"
 };
 ```
 
@@ -40,7 +40,6 @@ const suhira = {
 ## 🛠️ Tech Stack
 
 ### **Languages**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,14 +48,12 @@ const suhira = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend & Frameworks**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -64,21 +61,17 @@ const suhira = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Databases**
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### **Cloud & DevOps**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### **Tools & Design**
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -86,7 +79,6 @@ const suhira = {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ### **Specialized Skills**
-
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=apache&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -101,20 +93,28 @@ const suhira = {
   
 ### 🔥 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suhira30&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhira30&theme=algolia&hide_border=true" alt="GitHub Streak" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhira30&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhira30&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhira30&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhira30&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+</p>
 
 ### 📈 Contribution Graph
 
-[![Suhira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhira30&theme=react-dark&hide_border=true&area=true)](https://github.com/Suhira30)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhira30&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%"/>
+</p>
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Suhira30&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suhira30&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
+</p>
 
 </div>
 
@@ -123,9 +123,7 @@ const suhira = {
 ## 💼 Professional Experience
 
 ### 💡 Current Role
-
-**Software Engineer Intern** @ Smartzi Lanka (Pvt) Ltd | _Feb 2025 - Aug 2025_
-
+**Software Engineer Intern** @ Smartzi Lanka (Pvt) Ltd | *Feb 2025 - Aug 2025*
 - 🔧 Building production-level B2B transportation integrations (GNET, Uber)
 - ⚙️ Developing robust REST APIs with Spring Boot & DynamoDB
 - 🔐 Implementing secure authentication and exception handling
@@ -138,7 +136,6 @@ const suhira = {
 <div align="center">
 
 ### 🍽️ [Food Diary - Restaurant Tracking Platform](https://github.com/Suhira30/food-diary)
-
 **Tech:** React • Spring Boot • MySQL • JWT • Tailwind CSS
 
 Full-stack social platform with intelligent duplicate detection, role-based authorization, and comprehensive rating system.
@@ -146,7 +143,6 @@ Full-stack social platform with intelligent duplicate detection, role-based auth
 ---
 
 ### 👷 [Labor Hiring System](https://github.com/Suhira30/labor-hiring)
-
 **Tech:** React • MUI • Spring Boot • MySQL
 
 Mobile & web applications with real-time notifications, review management, and admin panel with analytics.
@@ -154,7 +150,6 @@ Mobile & web applications with real-time notifications, review management, and a
 ---
 
 ### 🛒 [TargaryenTea - E-commerce Platform](https://github.com/Suhira30/targaryen-tea)
-
 **Tech:** React • Spring Boot • Microservices • Eureka • Stripe
 
 Scalable microservices architecture with service discovery, API Gateway, and integrated payment processing.
@@ -162,7 +157,6 @@ Scalable microservices architecture with service discovery, API Gateway, and int
 ---
 
 ### 🥛 Fresh Milk Quality Checker
-
 **Tech:** Arduino Mega 2560 • C • IoT Sensors
 
 Hardware project with multi-sensor quality detection system and automated customer interface.
@@ -203,7 +197,7 @@ Hardware project with multi-sensor quality detection system and automated custom
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/SuhiraB)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
 
-### 📧 balarajansuhira@gmail.com | 📱 +94 76 642 05 54
+### 📧 balarajansuhira@gmail.com
 
 </div>
 
