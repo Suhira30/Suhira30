@@ -20,11 +20,12 @@
 <tr>
 <td width="50%">
 
-- 👩‍💻 **Current Role:** Software Engineer Intern @ Smartzi Lanka
+- 👩‍💻 **Status:** Open to Software Engineer Opportunities
 - 🎓 **Education:** BSc (Hons) IT @ University of Moratuwa
-- 🔭 **Working On:** B2B transportation integrations with Spring Boot
+- 💼 **Recent Experience:** Software Engineer Intern @ Smartzi Lanka
+- 🔭 **Recent Work:** B2B transportation integrations with Spring Boot
 - 🌱 **Learning:** Cloud Architecture, Microservices at Scale, DynamoDB
-- 💼 **Expertise:** Backend Development, Full-Stack, UI/UX Design
+- 💡 **Expertise:** Backend Development, Full-Stack, UI/UX Design
 - 🧠 **Interests:** Problem Solving, System Design, Clean Code
 - 💬 **Ask me about:** Spring Boot, React, System Design, UI/UX
 - ⚡ **Fun fact:** I turn complex problems into elegant solutions ✨
@@ -133,15 +134,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 💡 Current Role
+### 💡 Recent Experience
 
 **Software Engineer Intern** @ Smartzi Lanka (Pvt) Ltd  
 📅 *Feb 2025 - Aug 2025*
 
-- 🔧 Building production-level B2B transportation integrations (GNET, Uber)
-- ⚙️ Developing robust REST APIs with Spring Boot & DynamoDB
-- 🔐 Implementing secure authentication and exception handling
-- 🚀 Working with microservices, cloud deployment, and large-scale systems
+- 🔧 Built production-level B2B transportation integrations (GNET, Uber)
+- ⚙️ Developed robust REST APIs with Spring Boot & DynamoDB
+- 🔐 Implemented secure authentication and exception handling
+- 🚀 Worked with microservices, cloud deployment, and large-scale systems
 
 <br clear="right"/>
 
@@ -151,112 +152,90 @@
 
 <div align="center">
 
-| 🍽️ Food Diary | 👷 Labor Hiring System | 🛒 TargaryenTea |
-|:---:|:---:|:---:|
-| Restaurant Tracking Platform | Mobile & Web Application | E-commerce Platform |
-| React • Spring Boot • MySQL | React • MUI • Spring Boot | Microservices • Eureka |
-| JWT • Tailwind CSS | Real-time Notifications | API Gateway • Stripe |
-| ⭐ [View Project](https://github.com/Suhira30/food-diary) | ⭐ [View Project](https://github.com/Suhira30/labor-hiring) | ⭐ [View Project](https://github.com/Suhira30/targaryen-tea) |
+### 🍽️ Food Diary - Restaurant Tracking Platform
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0E75B6?style=for-the-badge&logo=github)](https://github.com/Suhira30/food-diary)
 
-</div>
+**Full-stack social platform for tracking restaurant visits and food experiences**
 
-### 📌 Project Highlights
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<details>
-<summary><b>🍽️ Food Diary - Restaurant Tracking Platform</b></summary>
+**Key Features:**
+- ✅ JWT authentication with role-based authorization (Pro/Free tiers)
+- ✅ 15+ secure REST API endpoints with comprehensive error handling
+- ✅ Intelligent duplicate detection using fuzzy matching algorithms
+- ✅ Comprehensive diary system with ratings, reviews, and favorites
+- ✅ Automated restaurant rating aggregation and analytics
 
-**Tech Stack:** React • Spring Boot • MySQL • JWT • Tailwind CSS
-
-- ✅ Full-stack social platform with intelligent duplicate detection
-- ✅ Role-based authorization (Pro/Free tiers) with 15+ secure REST endpoints
-- ✅ Fuzzy matching algorithms for database integrity
-- ✅ Comprehensive diary system with ratings and automated aggregation
-
-**[Backend Repository](https://github.com/Suhira30/food-diary-backend)** | **[Frontend Repository](https://github.com/Suhira30/food-diary-frontend)**
-
-</details>
-
-<details>
-<summary><b>👷 Labor Hiring System</b></summary>
-
-**Tech Stack:** React • MUI • Spring Boot • MySQL
-
-- ✅ Mobile and web applications for laborers and customers
-- ✅ Transparent and efficient labor hiring system
-- ✅ Admin panel with graphs, widgets, and tables
-- ✅ Review and rating management with real-time notifications
-
-**[Backend-Admin](https://github.com/Suhira30/labor-backend-admin)** | **[Frontend-Admin](https://github.com/Suhira30/labor-frontend-admin)**
-
-</details>
-
-<details>
-<summary><b>🛒 TargaryenTea - E-commerce Platform</b></summary>
-
-**Tech Stack:** React • Spring Boot • Microservices • Eureka Server • API Gateway • Stripe
-
-- ✅ Scalable microservices architecture with service discovery
-- ✅ User-facing pages with React and Material UI
-- ✅ Integrated Stripe payment gateway
-- ✅ Comprehensive unit testing for reliability
-
-**[Backend Repository](https://github.com/Suhira30/targaryen-backend)** | **[Frontend Repository](https://github.com/Suhira30/targaryen-frontend)**
-
-</details>
-
-<details>
-<summary><b>🥛 Fresh Milk Quality Checker (IoT)</b></summary>
-
-**Tech Stack:** Arduino Mega 2560 • C • IoT Sensors
-
-- ✅ Multi-tank system for ensuring fresh and pure milk
-- ✅ pH, temperature, gas, and color sensors for quality checking
-- ✅ Keypad and IR sensor for customer quantity input
-- ✅ Integrated and calibrated sensor systems
-
-</details>
+[Backend Repo](https://github.com/Suhira30/food-diary-backend) • [Frontend Repo](https://github.com/Suhira30/food-diary-frontend)
 
 ---
 
-## 📜 Certifications
+### 👷 Labor Hiring System - Mobile & Web Platform
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0E75B6?style=for-the-badge&logo=github)](https://github.com/Suhira30/labor-hiring)
 
-<div align="center">
+**Transparent and efficient labor hiring system with mobile and web applications**
 
-| 🎓 Certification | 🏢 Provider |
-|:---|:---|
-| ✅ HTML and CSS in Depth | Meta (Coursera) |
-| ✅ Programming with JavaScript | Meta (Coursera) |
-| ✅ React Basics | Meta (Coursera) |
-| ✅ Version Control | Meta (Coursera) |
-| ✅ Web Designer for Beginner | University of Moratuwa (CODL) |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-</div>
+**Key Features:**
+- ✅ Dual mobile and web applications for laborers and customers
+- ✅ Admin panel with real-time visual analytics (graphs, widgets, tables)
+- ✅ User account management and verification system
+- ✅ Review and rating management for quality assurance
+- ✅ Real-time push notifications for bookings and updates
+- ✅ Figma-designed UI mockups and prototypes
+
+[Backend-Admin](https://github.com/Suhira30/labor-backend-admin) • [Frontend-Admin](https://github.com/Suhira30/labor-frontend-admin)
 
 ---
 
-## 🏆 Roles & Leadership
+### 🛒 TargaryenTea - E-commerce Microservices Platform
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0E75B6?style=for-the-badge&logo=github)](https://github.com/Suhira30/targaryen-tea)
 
-<table>
-<tr>
-<td width="50%">
+**Scalable e-commerce platform built with microservices architecture**
 
-**University Involvement**
-- 📰 FIT Moments 23,24 - Editorial Pillar
-- ✍️ SEDS Mora Media Team - Content Writer
-- 📢 AIESEC Colombo South 23/24 - Marketing & PR
-- 🎨 IEEE Student Branch UOM 23/24 - Design Committee
-- 🎯 Career Fair Company Coordinator 2024 - ISA
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=apache&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-</td>
-<td width="50%">
+**Key Features:**
+- ✅ Microservices architecture with service discovery (Eureka Server)
+- ✅ API Gateway for centralized routing and load balancing
+- ✅ React + Material UI for responsive, modern frontend
+- ✅ Stripe payment gateway integration for secure transactions
+- ✅ Comprehensive unit testing for service reliability
+- ✅ Modular, scalable architecture for easy maintenance
 
-**School Leadership**
-- 🎓 J/Vembadi Girls' High School
-- 👑 Prefect (2016, 2017, 2018)
+[Backend Repo](https://github.com/Suhira30/targaryen-backend) • [Frontend Repo](https://github.com/Suhira30/targaryen-frontend)
 
-</td>
-</tr>
-</table>
+---
+
+### 🥛 Fresh Milk Quality Checker - IoT Hardware System
+[![Repository](https://img.shields.io/badge/Hardware_Project-IoT_System-0E75B6?style=for-the-badge&logo=arduino)](https://github.com/Suhira30)
+
+**Automated milk quality checking system using IoT sensors**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-02569B?style=flat-square&logo=internet-of-things&logoColor=white)
+
+**Key Features:**
+- ✅ Three-tank system: pouring, storing, and supplying
+- ✅ Multi-sensor quality detection (pH, temperature, gas, color)
+- ✅ Integrated keypad and IR sensor for customer interface
+- ✅ Real-time quality assessment and automated dispensing
+- ✅ Ensures fresh and pure milk with automated checks
+
+</div>
 
 ---
 
