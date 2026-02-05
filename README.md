@@ -135,7 +135,7 @@ University of Moratuwa
 </p>
 
 <p align="center">
-  © 2025 Suhira Balarajan • Made with 💙 and ☕
+  © 2026 Suhira Balarajan • Made with 💙 and ☕
 </p>
 
 ---
