@@ -139,6 +139,7 @@ _Worked on B2B transportation integrations with Spring Boot_
 ### 📧 balarajansuhira@gmail.com
 
 **💙 Open to collaborations and opportunities!**
+<br>
 **© 2025 Suhira Balarajan** • Made with 💙 and ☕
 </div>
 
