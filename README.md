@@ -21,14 +21,25 @@
 ### 👋 Hey there!
 
 I'm **Suhira Balarajan**, a passionate Software Engineer with a strong foundation in backend development and full-stack engineering. Currently seeking exciting opportunities to contribute to innovative projects.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🎓 Education**  
-BSc (Hons) in Information Technology University of Moratuwa
+### 🎓 Education
+**BSc (Hons) in Information Technology**  
+University of Moratuwa
 
-**💼 Recent Experience**  
-Software Engineer Intern @ Smartzi Lanka  
+</td>
+<td width="50%" valign="top">
+
+### 💼 Experience
+**Software Engineer Intern**  
+Smartzi Lanka  
 _Worked on B2B transportation integrations with Spring Boot_
 
+</td>
+</tr>
+</table>
 **🎯 What I Do**
 
 - 🔧 Build scalable backend systems
@@ -139,6 +150,7 @@ _Worked on B2B transportation integrations with Spring Boot_
 ### 📧 balarajansuhira@gmail.com
 
 **💙 Open to collaborations and opportunities!**
+
 <br>
 **© 2025 Suhira Balarajan** • Made with 💙 and ☕
 </div>
