@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Suhira+Balarajan+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Enthusiast;%2FUser+Focused+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Suhira+Balarajan+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Enthusiast;User-Focused+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+
 
 <h3>🚀 Passionate about building scalable systems and elegant solutions</h3>
 
