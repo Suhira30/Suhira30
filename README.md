@@ -21,16 +21,19 @@
 ### 👋 Hey there!
 
 I'm **Suhira Balarajan**, a passionate Software Engineer with a strong foundation in backend development and full-stack engineering. Currently seeking exciting opportunities to contribute to innovative projects.
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 🎓 Education
 **BSc (Hons) in Information Technology**  
 University of Moratuwa
 
 </td>
-<td width="50%" valign="top">
+
+<td width="10%"></td> <!-- spacer column -->
+
+<td width="45%" valign="top">
 
 ### 💼 Experience
 **Software Engineer Intern**  
