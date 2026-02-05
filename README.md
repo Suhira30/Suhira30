@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Suhira+Balarajan+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Enthusiast;UI%2FUX+Designer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Suhira+Balarajan+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Enthusiast;%2FUser+Focused+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
 
 <h3>🚀 Passionate about building scalable systems and elegant solutions</h3>
 
@@ -21,28 +21,11 @@
 ### 👋 Hey there!
 
 I'm **Suhira Balarajan**, a passionate Software Engineer with a strong foundation in backend development and full-stack engineering. Currently seeking exciting opportunities to contribute to innovative projects.
-<table width="100%">
-<tr>
-<td width="45%" valign="top">
 
 ### 🎓 Education
 **BSc (Hons) in Information Technology**  
 University of Moratuwa
 
-</td>
-
-<td width="10%"></td> <!-- spacer column -->
-
-<td width="45%" valign="top">
-
-### 💼 Experience
-**Software Engineer Intern**  
-Smartzi Lanka  
-_Worked on B2B transportation integrations with Spring Boot_
-
-</td>
-</tr>
-</table>
 **🎯 What I Do**
 
 - 🔧 Build scalable backend systems
