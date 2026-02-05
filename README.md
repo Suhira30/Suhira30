@@ -16,64 +16,33 @@
 
 ## 💫 About Me
 
-<table border="0">
-<tr>
-<td width="55%" valign="top">
+<div width="55%" valign="top">
 
 ### 👋 Hey there!
 
 I'm **Suhira Balarajan**, a passionate Software Engineer with a strong foundation in backend development and full-stack engineering. Currently seeking exciting opportunities to contribute to innovative projects.
 
 **🎓 Education**  
-BSc (Hons) in Information Technology  
-University of Moratuwa | CGPA: 3.41
+BSc (Hons) in Information Technology University of Moratuwa
 
 **💼 Recent Experience**  
 Software Engineer Intern @ Smartzi Lanka  
-*Worked on B2B transportation integrations with Spring Boot*
+_Worked on B2B transportation integrations with Spring Boot_
 
 **🎯 What I Do**
+
 - 🔧 Build scalable backend systems
 - 💻 Develop full-stack web applications
 - 🎨 Design intuitive user interfaces
 - 🧩 Solve complex technical problems
 
 **🌱 Currently Exploring**
+
 - Cloud Architecture & AWS
 - Advanced Microservices Patterns
 - DynamoDB & NoSQL Databases
 
-</td>
-<td width="45%" valign="top">
-
-```json
-{
-  "name": "Suhira Balarajan",
-  "location": "Sri Lanka 🇱🇰",
-  "role": "Software Engineer",
-  "expertise": [
-    "Backend Development",
-    "Full-Stack",
-    "UI/UX Design"
-  ],
-  "currentStatus": "Open to Opportunities",
-  "openTo": {
-    "collaborations": true,
-    "opportunities": true,
-    "freelance": true
-  },
-  "techStack": {
-    "backend": ["Java", "Spring Boot"],
-    "frontend": ["React", "Svelte"],
-    "databases": ["MySQL", "PostgreSQL", "DynamoDB"],
-    "tools": ["Git", "Figma", "Postman"]
-  }
-}
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -84,6 +53,7 @@ Software Engineer Intern @ Smartzi Lanka
 <br>
 
 ### **Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -92,12 +62,14 @@ Software Engineer Intern @ Smartzi Lanka
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend & Frameworks**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -105,17 +77,20 @@ Software Engineer Intern @ Smartzi Lanka
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### **Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### **Tools & Design**
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -123,6 +98,7 @@ Software Engineer Intern @ Smartzi Lanka
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ### **Specialized Skills**
+
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=apache&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -133,23 +109,6 @@ Software Engineer Intern @ Smartzi Lanka
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhira30&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhira30&theme=algolia&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhira30&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhira30&theme=react-dark&hide_border=true&area=true&bg_color=050F2C&line=0E75B6&point=1890FF&color=0E75B6" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suhira30&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -157,7 +116,7 @@ Software Engineer Intern @ Smartzi Lanka
 ### 💡 Recent Experience
 
 **Software Engineer Intern** @ Smartzi Lanka (Pvt) Ltd  
-📅 *Feb 2025 - Aug 2025*
+📅 _Feb 2025 - Aug 2025_
 
 - 🔧 Built production-level B2B transportation integrations (GNET, Uber)
 - ⚙️ Developed robust REST APIs with Spring Boot & DynamoDB
@@ -179,6 +138,7 @@ Software Engineer Intern @ Smartzi Lanka
 **Full-stack social platform for tracking restaurant visits and food experiences**
 
 #### 🎯 Key Highlights
+
 - JWT authentication with role-based authorization (Pro/Free tiers)
 - 15+ secure REST API endpoints with comprehensive error handling
 - Intelligent duplicate detection using fuzzy matching algorithms
@@ -186,10 +146,11 @@ Software Engineer Intern @ Smartzi Lanka
 - Automated restaurant rating aggregation and analytics
 
 #### 🔗 Links
+
 [📂 Backend Repository](https://github.com/Suhira30/food-diary-backend) • [🎨 Frontend Repository](https://github.com/Suhira30/food-diary-frontend)
 
 </td>
-<td width="30%">
+<td width="70%">
 
 **Tech Stack**
 
@@ -214,6 +175,7 @@ Software Engineer Intern @ Smartzi Lanka
 **Transparent and efficient labor hiring system with mobile and web applications**
 
 #### 🎯 Key Highlights
+
 - Dual mobile and web applications for laborers and customers
 - Admin panel with real-time visual analytics (graphs, widgets, tables)
 - User account management and verification system
@@ -222,10 +184,11 @@ Software Engineer Intern @ Smartzi Lanka
 - Figma-designed UI mockups and prototypes
 
 #### 🔗 Links
+
 [📂 Backend-Admin](https://github.com/Suhira30/labor-backend-admin) • [🎨 Frontend-Admin](https://github.com/Suhira30/labor-frontend-admin)
 
 </td>
-<td width="30%">
+<td width="70%">
 
 **Tech Stack**
 
@@ -250,6 +213,7 @@ Software Engineer Intern @ Smartzi Lanka
 **Scalable e-commerce platform built with microservices architecture**
 
 #### 🎯 Key Highlights
+
 - Microservices architecture with service discovery (Eureka Server)
 - API Gateway for centralized routing and load balancing
 - React + Material UI for responsive, modern frontend
@@ -258,10 +222,11 @@ Software Engineer Intern @ Smartzi Lanka
 - Modular, scalable architecture for easy maintenance
 
 #### 🔗 Links
+
 [📂 Backend Repository](https://github.com/Suhira30/targaryen-backend) • [🎨 Frontend Repository](https://github.com/Suhira30/targaryen-frontend)
 
 </td>
-<td width="30%">
+<td width="70%">
 
 **Tech Stack**
 
@@ -286,6 +251,7 @@ Software Engineer Intern @ Smartzi Lanka
 **Automated milk quality checking system using IoT sensors**
 
 #### 🎯 Key Highlights
+
 - Three-tank system: pouring, storing, and supplying
 - Multi-sensor quality detection (pH, temperature, gas, color)
 - Integrated keypad and IR sensor for customer interface
