@@ -25,8 +25,7 @@
 I'm **Suhira Balarajan**, a passionate Software Engineer with a strong foundation in backend development and full-stack engineering. Currently seeking exciting opportunities to contribute to innovative projects.
 
 **🎓 Education**  
-BSc (Hons) in Information Technology  
-University of Moratuwa | CGPA: 3.41
+BSc (Hons) in Information Technology University of Moratuwa 
 
 **💼 Recent Experience**  
 Software Engineer Intern @ Smartzi Lanka  
@@ -45,31 +44,6 @@ Software Engineer Intern @ Smartzi Lanka
 
 </td>
 <td width="45%" valign="top">
-
-```json
-{
-  "name": "Suhira Balarajan",
-  "location": "Sri Lanka 🇱🇰",
-  "role": "Software Engineer",
-  "expertise": [
-    "Backend Development",
-    "Full-Stack",
-    "UI/UX Design"
-  ],
-  "currentStatus": "Open to Opportunities",
-  "openTo": {
-    "collaborations": true,
-    "opportunities": true,
-    "freelance": true
-  },
-  "techStack": {
-    "backend": ["Java", "Spring Boot"],
-    "frontend": ["React", "Svelte"],
-    "databases": ["MySQL", "PostgreSQL", "DynamoDB"],
-    "tools": ["Git", "Figma", "Postman"]
-  }
-}
-```
 
 </td>
 </tr>
@@ -130,23 +104,6 @@ Software Engineer Intern @ Smartzi Lanka
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhira30&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhira30&theme=algolia&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhira30&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhira30&theme=react-dark&hide_border=true&area=true&bg_color=050F2C&line=0E75B6&point=1890FF&color=0E75B6" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suhira30&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-
-</div>
 
 ---
 
