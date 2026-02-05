@@ -16,9 +16,7 @@
 
 ## 💫 About Me
 
-<table border="0">
-<tr>
-<td width="55%" valign="top">
+<div width="55%" valign="top">
 
 ### 👋 Hey there!
 
@@ -42,12 +40,7 @@ Software Engineer Intern @ Smartzi Lanka
 - Advanced Microservices Patterns
 - DynamoDB & NoSQL Databases
 
-</td>
-<td width="45%" valign="top">
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
