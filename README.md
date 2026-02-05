@@ -139,7 +139,7 @@ Software Engineer Intern @ Smartzi Lanka
 [📂 Backend Repository](https://github.com/Suhira30/food-diary-backend) • [🎨 Frontend Repository](https://github.com/Suhira30/food-diary-frontend)
 
 </td>
-<td width="30%">
+<td width="70%">
 
 **Tech Stack**
 
@@ -175,7 +175,7 @@ Software Engineer Intern @ Smartzi Lanka
 [📂 Backend-Admin](https://github.com/Suhira30/labor-backend-admin) • [🎨 Frontend-Admin](https://github.com/Suhira30/labor-frontend-admin)
 
 </td>
-<td width="30%">
+<td width="70%">
 
 **Tech Stack**
 
@@ -211,7 +211,7 @@ Software Engineer Intern @ Smartzi Lanka
 [📂 Backend Repository](https://github.com/Suhira30/targaryen-backend) • [🎨 Frontend Repository](https://github.com/Suhira30/targaryen-frontend)
 
 </td>
-<td width="30%">
+<td width="70%">
 
 **Tech Stack**
 
