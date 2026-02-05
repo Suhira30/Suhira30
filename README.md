@@ -6,7 +6,7 @@
 <h3>🚀 Passionate about building scalable systems and elegant solutions</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat-square)](https://github.com/Suhira30)
-[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/suhirabalarajan)
+[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suhirabalarajan)
 [![Medium](https://img.shields.io/badge/-@suhirabalarajan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suhirabalarajan)
 [![HackerRank](https://img.shields.io/badge/-SuhiraB-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Suhira_B)
 [![Email](https://img.shields.io/badge/-balarajansuhira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
@@ -128,7 +128,8 @@ University of Moratuwa
 ## 🤝 Let's Connect!
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/suhirabalarajan)
+[![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat-square)](https://github.com/Suhira30)
+[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suhirabalarajan)
 [![Medium](https://img.shields.io/badge/-@suhirabalarajan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suhirabalarajan)
 [![HackerRank](https://img.shields.io/badge/-SuhiraB-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Suhira_B)
 [![Email](https://img.shields.io/badge/-balarajansuhira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
