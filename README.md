@@ -1,14 +1,14 @@
 <div align="center">
-  
-# Hi there, I'm Suhira Balarajan 👋
 
-### 🚀 Backend Developer | Full-Stack Enthusiast | Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Suhira+Balarajan+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Enthusiast;UI%2FUX+Designer+%7C+Problem+Solver" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat)](https://github.com/Suhira30)
-[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suhirabalarajan)
-[![Medium](https://img.shields.io/badge/-@suhirabalarajan-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@suhirabalarajan)
-[![HackerRank](https://img.shields.io/badge/-SuhiraB-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/SuhiraB)
-[![Email](https://img.shields.io/badge/-balarajansuhira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
+<h3>🚀 Passionate about building scalable systems and elegant solutions</h3>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Suhira30&color=0e75b6&style=flat-square)](https://github.com/Suhira30)
+[![LinkedIn](https://img.shields.io/badge/-Suhira_Balarajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suhirabalarajan)
+[![Medium](https://img.shields.io/badge/-@suhirabalarajan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suhirabalarajan)
+[![HackerRank](https://img.shields.io/badge/-SuhiraB-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/SuhiraB)
+[![Email](https://img.shields.io/badge/-balarajansuhira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
 
 </div>
 
@@ -16,28 +16,51 @@
 
 ## 💫 About Me
 
+<table>
+<tr>
+<td width="50%">
+
+- 👩‍💻 **Current Role:** Software Engineer Intern @ Smartzi Lanka
+- 🎓 **Education:** BSc (Hons) IT @ University of Moratuwa
+- 🔭 **Working On:** B2B transportation integrations with Spring Boot
+- 🌱 **Learning:** Cloud Architecture, Microservices at Scale, DynamoDB
+- 💼 **Expertise:** Backend Development, Full-Stack, UI/UX Design
+- 🧠 **Interests:** Problem Solving, System Design, Clean Code
+- 💬 **Ask me about:** Spring Boot, React, System Design, UI/UX
+- ⚡ **Fun fact:** I turn complex problems into elegant solutions ✨
+
+</td>
+<td width="50%">
+
 ```javascript
-const suhira = {
-  pronouns: "she/her",
-  location: "Colombo/Jaffna, Sri Lanka 🇱🇰",
-  education: "BSc (Hons) IT @ University of Moratuwa",
-  currentRole: "Software Engineer Intern @ Smartzi Lanka",
-  currentlyWorking: "B2B transportation integrations with Spring Boot",
-  expertise: ["Backend Development", "Full-Stack", "UI/UX Design"],
-  learning: ["Cloud Architecture", "Microservices at Scale", "DynamoDB"],
-  interests: ["Problem Solving", "System Design", "Clean Code"],
-  openTo: {
-    collaborations: true,
-    opportunities: "Software Engineer Roles",
-    freelance: true
-  },
-  funFact: "I turn complex problems into elegant solutions ✨"
-};
+{
+  "name": "Suhira Balarajan",
+  "location": "Sri Lanka 🇱🇰",
+  "role": "Software Engineer",
+  "expertise": [
+    "Backend Development",
+    "Full-Stack",
+    "UI/UX Design"
+  ],
+  "openTo": {
+    "collaborations": true,
+    "opportunities": true,
+    "freelance": true
+  }
+}
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🔥 Click to expand/collapse</b></summary>
+<br>
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -85,36 +108,22 @@ const suhira = {
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-### 🔥 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhira30&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhira30&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhira30&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhira30&theme=algolia&hide_border=true" />
 
-### 💻 Most Used Languages
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhira30&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhira30&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhira30&theme=react-dark&hide_border=true&area=true&bg_color=050F2C&line=0E75B6&point=1890FF&color=0E75B6" />
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhira30&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suhira30&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Suhira30&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 
 </div>
 
@@ -122,12 +131,19 @@ const suhira = {
 
 ## 💼 Professional Experience
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ### 💡 Current Role
-**Software Engineer Intern** @ Smartzi Lanka (Pvt) Ltd | *Feb 2025 - Aug 2025*
+
+**Software Engineer Intern** @ Smartzi Lanka (Pvt) Ltd  
+📅 *Feb 2025 - Aug 2025*
+
 - 🔧 Building production-level B2B transportation integrations (GNET, Uber)
 - ⚙️ Developing robust REST APIs with Spring Boot & DynamoDB
 - 🔐 Implementing secure authentication and exception handling
 - 🚀 Working with microservices, cloud deployment, and large-scale systems
+
+<br clear="right"/>
 
 ---
 
@@ -135,56 +151,112 @@ const suhira = {
 
 <div align="center">
 
-### 🍽️ [Food Diary - Restaurant Tracking Platform](https://github.com/Suhira30/food-diary)
-**Tech:** React • Spring Boot • MySQL • JWT • Tailwind CSS
-
-Full-stack social platform with intelligent duplicate detection, role-based authorization, and comprehensive rating system.
-
----
-
-### 👷 [Labor Hiring System](https://github.com/Suhira30/labor-hiring)
-**Tech:** React • MUI • Spring Boot • MySQL
-
-Mobile & web applications with real-time notifications, review management, and admin panel with analytics.
-
----
-
-### 🛒 [TargaryenTea - E-commerce Platform](https://github.com/Suhira30/targaryen-tea)
-**Tech:** React • Spring Boot • Microservices • Eureka • Stripe
-
-Scalable microservices architecture with service discovery, API Gateway, and integrated payment processing.
-
----
-
-### 🥛 Fresh Milk Quality Checker
-**Tech:** Arduino Mega 2560 • C • IoT Sensors
-
-Hardware project with multi-sensor quality detection system and automated customer interface.
+| 🍽️ Food Diary | 👷 Labor Hiring System | 🛒 TargaryenTea |
+|:---:|:---:|:---:|
+| Restaurant Tracking Platform | Mobile & Web Application | E-commerce Platform |
+| React • Spring Boot • MySQL | React • MUI • Spring Boot | Microservices • Eureka |
+| JWT • Tailwind CSS | Real-time Notifications | API Gateway • Stripe |
+| ⭐ [View Project](https://github.com/Suhira30/food-diary) | ⭐ [View Project](https://github.com/Suhira30/labor-hiring) | ⭐ [View Project](https://github.com/Suhira30/targaryen-tea) |
 
 </div>
+
+### 📌 Project Highlights
+
+<details>
+<summary><b>🍽️ Food Diary - Restaurant Tracking Platform</b></summary>
+
+**Tech Stack:** React • Spring Boot • MySQL • JWT • Tailwind CSS
+
+- ✅ Full-stack social platform with intelligent duplicate detection
+- ✅ Role-based authorization (Pro/Free tiers) with 15+ secure REST endpoints
+- ✅ Fuzzy matching algorithms for database integrity
+- ✅ Comprehensive diary system with ratings and automated aggregation
+
+**[Backend Repository](https://github.com/Suhira30/food-diary-backend)** | **[Frontend Repository](https://github.com/Suhira30/food-diary-frontend)**
+
+</details>
+
+<details>
+<summary><b>👷 Labor Hiring System</b></summary>
+
+**Tech Stack:** React • MUI • Spring Boot • MySQL
+
+- ✅ Mobile and web applications for laborers and customers
+- ✅ Transparent and efficient labor hiring system
+- ✅ Admin panel with graphs, widgets, and tables
+- ✅ Review and rating management with real-time notifications
+
+**[Backend-Admin](https://github.com/Suhira30/labor-backend-admin)** | **[Frontend-Admin](https://github.com/Suhira30/labor-frontend-admin)**
+
+</details>
+
+<details>
+<summary><b>🛒 TargaryenTea - E-commerce Platform</b></summary>
+
+**Tech Stack:** React • Spring Boot • Microservices • Eureka Server • API Gateway • Stripe
+
+- ✅ Scalable microservices architecture with service discovery
+- ✅ User-facing pages with React and Material UI
+- ✅ Integrated Stripe payment gateway
+- ✅ Comprehensive unit testing for reliability
+
+**[Backend Repository](https://github.com/Suhira30/targaryen-backend)** | **[Frontend Repository](https://github.com/Suhira30/targaryen-frontend)**
+
+</details>
+
+<details>
+<summary><b>🥛 Fresh Milk Quality Checker (IoT)</b></summary>
+
+**Tech Stack:** Arduino Mega 2560 • C • IoT Sensors
+
+- ✅ Multi-tank system for ensuring fresh and pure milk
+- ✅ pH, temperature, gas, and color sensors for quality checking
+- ✅ Keypad and IR sensor for customer quantity input
+- ✅ Integrated and calibrated sensor systems
+
+</details>
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Meta: HTML and CSS in Depth** - Coursera
-- ✅ **Meta: Programming with JavaScript** - Coursera
-- ✅ **Meta: React Basics** - Coursera
-- ✅ **Meta: Version Control** - Coursera
-- ✅ **Web Designer for Beginner** - University of Moratuwa (CODL)
+<div align="center">
+
+| 🎓 Certification | 🏢 Provider |
+|:---|:---|
+| ✅ HTML and CSS in Depth | Meta (Coursera) |
+| ✅ Programming with JavaScript | Meta (Coursera) |
+| ✅ React Basics | Meta (Coursera) |
+| ✅ Version Control | Meta (Coursera) |
+| ✅ Web Designer for Beginner | University of Moratuwa (CODL) |
+
+</div>
 
 ---
 
-## 🎯 What I'm Up To
+## 🏆 Roles & Leadership
 
-```diff
-+ 🔭 Currently working on: B2B Transportation Integration Systems
-+ 🌱 Currently learning: Cloud Architecture, Advanced Microservices Patterns
-+ 👯 Looking to collaborate on: Open Source Projects, Full-Stack Applications
-+ 💼 Open for: Software Engineer Opportunities
-+ 💬 Ask me about: Spring Boot, React, System Design, UI/UX
-+ ⚡ Fun fact: I love turning coffee into code ☕→💻
-```
+<table>
+<tr>
+<td width="50%">
+
+**University Involvement**
+- 📰 FIT Moments 23,24 - Editorial Pillar
+- ✍️ SEDS Mora Media Team - Content Writer
+- 📢 AIESEC Colombo South 23/24 - Marketing & PR
+- 🎨 IEEE Student Branch UOM 23/24 - Design Committee
+- 🎯 Career Fair Company Coordinator 2024 - ISA
+
+</td>
+<td width="50%">
+
+**School Leadership**
+- 🎓 J/Vembadi Girls' High School
+- 👑 Prefect (2016, 2017, 2018)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -198,6 +270,10 @@ Hardware project with multi-sensor quality detection system and automated custom
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balarajansuhira@gmail.com)
 
 ### 📧 balarajansuhira@gmail.com
+
+<br>
+
+**💙 Open to collaborations and opportunities!**
 
 </div>
 
@@ -214,18 +290,8 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 ---
 
-### 💙 "Code is like humor. When you have to explain it, it's bad." – Cory House
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
----
-
-<div align="center">
-  
 **© 2025 Suhira Balarajan** • Made with 💙 and ☕
-
-![](https://hit.yhype.me/github/profile?user_id=Suhira30)
 
 </div>
