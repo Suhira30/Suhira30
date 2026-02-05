@@ -148,17 +148,7 @@ _Worked on B2B transportation integrations with Spring Boot_
 
 ## 🌟 Support My Work
 
-<div align="center">
-
-If you like my work, consider giving a ⭐ to my repositories!
-
-[![GitHub followers](https://img.shields.io/github/followers/Suhira30?label=Follow&style=social)](https://github.com/Suhira30)
-[![GitHub stars](https://img.shields.io/github/stars/Suhira30?label=Stars&style=social)](https://github.com/Suhira30)
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+<div>
 **© 2025 Suhira Balarajan** • Made with 💙 and ☕
 
 </div>
